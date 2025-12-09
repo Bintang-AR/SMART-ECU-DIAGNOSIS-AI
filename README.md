@@ -17,5 +17,5 @@ Masalah yang diangkat :
 
 Teknologi yang digunakan :
 - Machine Learning
-- Front End (React.js)
-- Back End (Flask)
+- Front End
+- Back End
