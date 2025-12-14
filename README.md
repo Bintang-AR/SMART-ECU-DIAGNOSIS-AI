@@ -21,6 +21,23 @@ Teknologi yang digunakan :
 - Back End
 
 
+
+
+*note : 
+1. pastikan anda menginstall node.js
+   lalu cek dengan cmd/bash :
+
+   npm -v
+
+   atau
+
+   node -v
+2. pastikan ffmpeg di install
+3. install semua yang ada di requirements.txt
+   bash :
+   
+   pip install -r requirements.txt
+
 Panduan Menjalankan Aplikasi
 Berikut adalah langkah-langkah yang diperlukan untuk menjalankan aplikasi (baik backend maupun frontend):
 
