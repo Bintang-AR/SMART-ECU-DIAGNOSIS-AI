@@ -1,48 +1,8 @@
-# Backend Requirements untuk FastAPI
-# Install dengan: pip install -r requirements.txt
-
-# Core Framework
-fastapi==0.109.0
-uvicorn[standard]==0.27.0
-python-multipart==0.0.6
-
-# Audio Processing
-librosa==0.10.1
-soundfile==0.12.1
-numpy==1.26.3
-
-# Machine Learning (pilih sesuai kebutuhan)
-# TensorFlow
-# tensorflow==2.15.0
-
-# PyTorch
-# torch==2.1.0
-# torchaudio==2.1.0
-
-# Scikit-learn untuk ML tradisional
-scikit-learn==1.3.2
-
-# Database (optional - pilih salah satu)
-# PostgreSQL
-# psycopg2-binary==2.9.9
-# sqlalchemy==2.0.25
-
-# MongoDB
-# pymongo==4.6.1
-# motor==3.3.2  # Async MongoDB driver
-
-# Utilities
-python-dotenv==1.0.0  # Untuk environment variables
-pydantic==2.5.3  # Data validation
-python-jose[cryptography]==3.3.0  # JWT tokens (jika perlu auth)
-
-# Monitoring & Logging
-# sentry-sdk==1.40.0  # Error tracking
-# prometheus-fastapi-instrumentator==6.1.0  # Metrics
-
-# Rate Limiting
-slowapi==0.1.9
-
-# Testing
-pytest==7.4.3
-httpx==0.26.0  # Untuk testing FastAPI
+- tensorflow
+- librosa
+- python-multipart
+- uvicorn
+- fastapi
+- numpy
+- pandas
+- soundfile
