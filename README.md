@@ -1,4 +1,4 @@
-# SMART-ECU-DIAGNOSIS-AI
+# AUDRIVE : "Listen Early, Drive Safer"
 Anggota :
 - Andika Bintang Ramadhan
 - Muhammad Iqbal
@@ -16,9 +16,11 @@ Masalah yang diangkat :
 
 
 Teknologi yang digunakan :
-- Machine Learning
-- Front End
-- Back End
+- Machine Learning (CNN)
+- Python Programming Language
+- Audio processing 
+- Front End Web
+- Back End API
 
 
 
